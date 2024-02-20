@@ -1,0 +1,6 @@
+# VS Code & plugins
+.vscode/
+.history/
+
+# build output
+SQL-Online-Judge/
